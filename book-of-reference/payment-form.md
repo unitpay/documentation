@@ -1,0 +1,14 @@
+# Payment Form Appearance
+
+To change the appearance of the payment form, add additional parameters to the main payment parameters:
+
+|  | **Value** | **Description** |
+| :--- | :--- | :--- |
+| **hideHint** | true, false | It hides the tooltip to the phone number |
+| **hideBackUrl** | true, false | It hides the return address of the merchant's store |
+| **hideDesc** | true, false | It hides the description of the payment |
+| **hideOrderCost** | true, false | It hides the original price of the product/service \(the total price including commission will remain\) |
+| **hideMenu** | true, false | It hides the menu with the payment method options |
+| **hideOtherMethods** | true, false | It hides the window for selecting other payment methods |
+| **hideOtherPSMethods** | true, false | It hides the window for selecting other payment methods, except those related to this payment method \(for mobile payment, it still will be possible to select among operators; for payment with cards, it still will be possible to select among different card types, etc.\) |
+
