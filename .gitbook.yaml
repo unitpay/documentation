@@ -1,0 +1,52 @@
+root: ./
+
+redirects:
+  category/179-category: first_steps/registration.md
+  article/189-signup: first_steps/registration.md
+  article/190-add-project: first_steps/adding-project.md
+  article/191-moderation: first_steps/moderation.md
+  article/192-transfer-project: first_steps/project-transfer.md
+  article/193-video: first_steps/video-tutorials.md
+  article/251-vk: first_steps/adding-project/vk-project.md
+  
+  category/180-api: payments/create-payment-easy.md
+  article/194-creating-payment-from-payment-form: payments/create-payment-easy.md
+  article/195-creating-payment-via-api: payments/create-payment.md
+  article/196-links-without-api: payments/payment-links.md
+  article/197-confirmation-payment: payments/payment-handler.md
+  article/198-get-payment: payments/payment-info.md
+  article/199-refund-payment: payments/payment-refund.md
+  article/200-article: payments/pre-authorization-payments.md
+  
+  category/181-api: payouts/create_payout.md
+  article/201-masspayment: payouts/create_payout.md
+  article/202-masspayment-status: payouts/payout_info.md
+  article/203-bin-check:payouts/bin_info.md
+  article/204-csv:payouts/csv_payouts.md
+  
+  category/182-api: unitpay-management/balance.md
+  article/205-get-partner: unitpay-management/balance.md
+  article/206-project-commissions: unitpay-management/commissions.md
+  article/207-article: unitpay-management/conversion-rates.md
+  
+  category/183-api: payments/recurring-payments/create-subscription.md
+  article/208-list-active-subscriptions: payments/recurring-payments/subscription-list.md
+  article/209-get-subscription-info: payments/recurring-payments/subscription-info.md
+  article/210-close-subscription: payments/recurring-payments/close-subscription.md
+  article/211-create-subscription: payments/recurring-payments/create-subscription.md
+  
+  category/184-category: book-of-reference/ip-addresses.md
+  article/212-ip-addresses: book-of-reference/ip-addresses.md
+  article/188-appearance-forms-payment: book-of-reference/payment-form.md
+  article/213-test-api: other/test-api.md
+  article/214-operator-codes: book-of-reference/operator-codes.md
+  article/215-codes-payment-systems: book-of-reference/payment-system-codes.md
+  article/216-qiwi-country-codes: book-of-reference/qiwi-country-codes.md
+  
+  category/186-category: referral-program/interface-of-referrer.md
+  article/247-referrer-interface: referral-program/interface-of-referrer.md
+
+  category/187-category: other/test-api.md
+  article/213-test-api: other/test-api.md
+  article/249-telegram: other/telegram.md
+  
