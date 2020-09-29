@@ -1,5 +1,9 @@
 root: ./
 
+structure:  
+    readme: README.md  
+    summary: SUMMARY.md
+
 redirects:
   category/179-category: first_steps/registration.md
   article/189-signup: first_steps/registration.md
