@@ -7,7 +7,6 @@ structure:
 redirects:
   category/179-category: first_steps/registration.md
   article/189-signup: first_steps/registration.md
-  article/190-add-project: first_steps/adding-project.md
   article/191-moderation: first_steps/moderation.md
   article/192-transfer-project: first_steps/project-transfer.md
   article/193-video: first_steps/video-tutorials.md
