@@ -40,6 +40,10 @@ redirects:
   article/214-operator-codes: book-of-reference/operator-codes.md
   article/215-codes-payment-systems: book-of-reference/payment-system-codes.md
   article/216-qiwi-country-codes: book-of-reference/qiwi-country-codes.md
+  category/43-category: modules/unitpay-sdk.md
+  category/51-category: first_steps/registration.md
+  category/54-api: payments/create-payment-easy.md
+  category/87-api: unitpay-management/balance.md
   category/186-category: referral-program/interface-of-referrer.md
   article/247-referrer-interface: referral-program/interface-of-referrer.md
   category/187-category: other/test-api.md
