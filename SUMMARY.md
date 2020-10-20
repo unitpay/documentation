@@ -15,7 +15,7 @@
   * [Обработчик платежа](payments/payment-handler.md)
   * [Информация о платеже](payments/payment-info.md)
   * [Возврат платежа](payments/payment-refund.md)
-  * [Двухстадийные платежи \(платежи с преаворизацией\)](payments/pre-authorization-payments.md)
+  * [Двухстадийные платежи \(платежи с преавторизацией\)](payments/pre-authorization-payments.md)
   * [Подписки API](payments/recurring-payments/README.md)
     * [Создание подписки](payments/recurring-payments/create-subscription.md)
     * [Получение списка активных подписок](payments/recurring-payments/subscription-list.md)

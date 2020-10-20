@@ -1,4 +1,4 @@
-# Двухстадийные платежи \(платежи с преаворизацией\)
+# Двухстадийные платежи \(платежи с преавторизацией\)
 
 {% api-method method="get" host="https://unitpay.money/api" path="?method=initPayment" %}
 {% api-method-summary %}
