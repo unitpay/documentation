@@ -60,6 +60,7 @@
     * [Taplink](modules/cms-modules/taplink.md)
     * [Tilda](modules/cms-modules/tilda.md)
     * [UCoz](modules/cms-modules/ucoz.md)
+    * [CMS-S3](modules/cms-modules/cms-s3.md)
 * [Личный кабинет](unitpay-management/README.md)
   * [Текущий баланс](unitpay-management/balance.md)
   * [Комиссии проекта](unitpay-management/commissions.md)
