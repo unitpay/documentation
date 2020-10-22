@@ -2,7 +2,11 @@
 
 ### Инструкция по настройке и установке модуля.
 
-1. Скачайте [архив](https://github.com/unitpay/logicboxes-module) с модулем.2. Скопируйте содержимое директории unitpay из архива на какой-либо ваш хостинг.3. Перейти в панели LogicBoxes в меню settings-&gt;finance & billing-&gt;payment gateway-&gt;list/add.![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/551a91dbe4b0221aadf24410/images/580a3a8290336070ba247d08/file-UvUDQyRVRR.png)4. Нажать на кнопку "Аdd a gateway", в открывшемся окне внизу нажать "Add it now".
+1. Скачайте [архив](https://github.com/unitpay/logicboxes-module) с модулем.  
+2. Скопируйте содержимое директории unitpay из архива на какой-либо ваш хостинг.  
+3. Перейти в панели LogicBoxes в меню settings-&gt;finance & billing-&gt;payment gateway-&gt;list/add.  
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/551a91dbe4b0221aadf24410/images/580a3a8290336070ba247d08/file-UvUDQyRVRR.png)  
+4. Нажать на кнопку "Аdd a gateway", в открывшемся окне внизу нажать "Add it now".
 
 5. В gateway url ввести  [http://&lt;](http://xn--%26lt%3B-e6dsg7e/)домен привязанный к вашему хостингу&gt;/unitpay/paymentpage.php6
 

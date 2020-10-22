@@ -20,5 +20,7 @@
 
 9. По необходимости значению переменной $currency\_name нужно присвоить код валюты\(которая присутствует в магазине\), в которой вы хотите принимать платежи, по умолчанию стоит RUB
 
-10. В личном кабинете Unitpay.ru введите адрес обработчика платежей [http://&lt;адрес](http://xn--/%3C-8cdug0fj/) вашего сайта&gt;/shop/cart/![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/551a91dbe4b0221aadf24410/images/5836d9a3c6979106d373617d/file-WigCbE6rTX.png)
+10. В личном кабинете Unitpay.money введите адрес обработчика платежей [http://&lt;адрес](http://xn--/%3C-8cdug0fj/) вашего сайта&gt;/shop/cart/  
+  
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/551a91dbe4b0221aadf24410/images/5836d9a3c6979106d373617d/file-WigCbE6rTX.png)
 

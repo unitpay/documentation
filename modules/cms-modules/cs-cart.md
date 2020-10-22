@@ -2,7 +2,7 @@
 
 ### Инструкция по настройке и установке модуля. <a id="instrukciya-po-nastroike-i-ustanovke-modulya"></a>
 
-1. Скачайте [архив](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M9Y_k8Gr-WxeECFRelw%2F-MIKIPg6DtJz_Uixc6XV%2F-MIKK5bPLcmwqZotem3O%2Fcscart-addon%203.0.1.zip?alt=media&token=6d4613b5-bc8e-429e-8676-7a60bff64609) с модулем.
+1. Скачайте [архив](https://github.com/unitpay/cscart-module/releases/tag/3.0.0) с модулем.
 
 2. Скопируйте содержимое папки “**unitpay-addon**” из архива в корень вашего сайта.
 

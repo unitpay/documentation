@@ -16,5 +16,7 @@
 
 7. При необходимости введите порядок сортировки \(в каком порядке будут выводиться платежные системы на странице выбора платежных систем\), статус заказа, на который будет сменяться статус при удачной оплате \(по умолчанию это Paid\[Unitpay\]\) и статус заказа, на который будет меняться статус при ошибке оплаты \(по умолчанию это Error\[Unitpay\]\).
 
-8. В личном кабинете Unitpay.ru введите адрес обработчика платежей [http://&lt;адрес](http://xn--/%3C-8cdug0fj/) вашего сайта&gt;/unitpay.php![](https://s3.amazonaws.com/helpscout.net/docs/assets/551a91dbe4b0221aadf24410/images/588722e1dd8c8e73b3e8f083/file-HdckvhNBxs.png)
+8. В личном кабинете Unitpay.ru введите адрес обработчика платежей [http://&lt;адрес](http://xn--/%3C-8cdug0fj/) вашего сайта&gt;/unitpay.php  
+  
+![](https://s3.amazonaws.com/helpscout.net/docs/assets/551a91dbe4b0221aadf24410/images/588722e1dd8c8e73b3e8f083/file-HdckvhNBxs.png)
 

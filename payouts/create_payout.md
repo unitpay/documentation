@@ -1,6 +1,8 @@
 # Создание выплаты
 
-Для взаимодействия с API используйте библиотеку [Unitpay PHP-SDK](https://github.com/unitpay/php-sdk)[https://unitpay.money/api?](https://unitpay.money/api?)  
+Для взаимодействия с API используйте библиотеку [Unitpay PHP-SDK](https://github.com/unitpay/php-sdk)
+
+https://unitpay.money/api?  
      method=massPayment  
      params\[sum\]=10.00  
      params\[purse\]=7951xxxxx71  

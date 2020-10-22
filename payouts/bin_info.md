@@ -1,6 +1,8 @@
 # Информация о карте по BIN
 
-Для получения с API рекомендуется использовать библиотеку [Unitpay PHP-SDK](https://github.com/unitpay/php-sdk)[https://unitpay.money/api?](https://unitpay.money/api?)  
+Для получения с API рекомендуется использовать библиотеку [Unitpay PHP-SDK](https://github.com/unitpay/php-sdk)
+
+https://unitpay.money/api?  
      method=getBinInfo  
      params\[login\]=partner@mail  
      params\[bin\]=477964  
