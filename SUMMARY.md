@@ -69,6 +69,7 @@
   * [Payment Form Appearance](book-of-reference/payment-form.md)
   * [Operator Codes](book-of-reference/operator-codes.md)
   * [Payment System Codes](book-of-reference/payment-system-codes.md)
+  * [Currency codes](book-of-reference/currency-codes.md)
   * [Qiwi Country Codes](book-of-reference/qiwi-country-codes.md)
 * [Referral program](referral-program/README.md)
   * [Interface of Referrer's \(Agent's\) Account](referral-program/interface-of-referrer.md)

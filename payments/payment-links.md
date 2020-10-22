@@ -12,13 +12,19 @@ The function can be used only after approval. Please contact your account manage
 
 To add a new product, click **\[+ Add product\]** and fill in the following fields:
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/e20214a32ddfd03b0042a738db8c2bbd.png)
 
-**Name** is the name of the product that the payer will see before paying;
+**Name** is the name of the product that the payer will see before paying.
 
-**Description** is the description of the product that the payer will see before paying;
+**Description** is the description of the product that the payer will see before paying.
 
-**Price** is the amount that will be billed to the payer;
+**Price** is the amount that will be billed to the payer.
+
+**Currency** - the order currency according to ISO 4217 \(RUB, UAH, BYN, EUR, USD etc. [Currency codes](../book-of-reference/currency-codes.md)\).
+
+**Message on the receipt** - information that the user will see after successful payment. 
+
+**Language** - the form language \(Russian/English\).
 
 **Mandatory field** is a question that the payer must answer before paying. The response will be used in the Statistics section - it will help to easily find payments from specific users. You can select one of the mandatory fields: E-mail and Phone number.
 

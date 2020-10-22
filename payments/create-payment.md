@@ -31,7 +31,7 @@ To interact with the API, use the [Unitpay PHP-SDK](https://github.com/unitpay/p
 
 |  | **Value** | **Description** |
 | :--- | :--- | :--- |
-| **currency** | line | The order currency according to ISO 4217 \(RUB, UAH, BYN, EUR, USD\). If the payment system does not support the required currency, the amount will be converted to the payment system currency |
+| **currency** | line | The order currency according to ISO 4217 \(RUB, UAH, BYN, EUR, USD etc. [Currency codes](../book-of-reference/currency-codes.md)\). If the payment system does not support the required currency, the amount will be converted to the payment system currency |
 | **locale** | line | It is mandatory to specify the payment form language, acceptable values: ru, en. By default, the form language is determined based on the country that the user's IP address belongs to |
 | **signature** | line | Request digital signature. This feature is mandatory for all new Unitpay partners. It protects you from hackers: substituting the description or price of the order, placing a link to the payment on the resources of fraudsters. |
 | **backUrl** | line | The user's return address from the payment form without making a purchase; the project address is used by default. The project domain must be used in the address. Examples: [https://redirect.&lt;project](https://redirect.<project) domain&gt;/?someParams", "[https://&lt;project](https://<project) domain&gt;/redirect/ |
