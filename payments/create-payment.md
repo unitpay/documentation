@@ -110,7 +110,7 @@ sub getSignature {
     "message": "Платеж успешно создан.",
     "paymentId": "1400072",
     "receiptUrl": "https://unitpay.money/pay/receipt/111-ab34c22",
-    "type": "reponse",
+    "type": "response",
     "response": "<form>...</form>" 
   }
 }
@@ -124,7 +124,7 @@ sub getSignature {
     "message": "Платеж успешно создан.",
     "paymentId": "1400072",
     "receiptUrl": "https://unitpay.money/pay/receipt/111-ab34c22",
-    "type": "reponse",
+    "type": "response",
     "response": {
       "success": 1,
       "orderId": "123",
