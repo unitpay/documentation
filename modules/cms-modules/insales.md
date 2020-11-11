@@ -12,10 +12,7 @@
 8. Save the page.
 9. Go to the project management panel in Unitpay.
 10. In the URL field of the Payment Handler section, enter [https://unitpay.money/insales/handler](https://unitpay.money/insales/handler).
-11. Check the box next to Send the client to a special project page.
-12. In the Fail URL field, copy the value of the "URL to go to in case of payment error" field from the payment settings page in the InSales system.
-13. In the "Success URL" field, copy the value of the "URL to go to in case of successful payment" field from the payment settings page in the InSales system.
-14. Save the project settings.
+11. Save the project settings.
 
 **Integration is complete.**
 
