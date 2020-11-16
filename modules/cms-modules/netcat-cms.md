@@ -2,7 +2,7 @@
 
 **The Module Setup and Installation Instruction**
 
-1. Download the [archive](https://github.com/unitpay/netcat-module/releases/download/1.0.1/netcat-module-1.0.1.zip) with the module.
+1. Download the [archive](https://github.com/unitpay/netcat-module/archive/v2.0.1.zip) with the module.
 2. Copy the contents of the Unitpay directory from the archive to the root of your site.
 3. Run the query from unitpay. sql in the site database.
 4. Go to Settings -&gt; Payment acceptance and then to the Payment acceptance tab.
