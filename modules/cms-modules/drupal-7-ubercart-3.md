@@ -2,7 +2,7 @@
 
 **The Module Setup and Installation Instruction**
 
-1. Download the [archive](https://github.com/unitpay/ubercart-module) with the module.
+1. Download the [archive](https://github.com/unitpay/ubercart-module/archive/v2.0.1.zip) with the module.
 2. Install the module. To do this, copy the contents of the Unitpay directory from the archive to the address &lt;folder with your site&gt;/sites/all/modules. After that, click Modules in the menu, check the box next to Unitpay and click Save configuration.
 3. Go to Store - &gt; Payment methods and click on the Settings link opposite the UnitPay line.
 
