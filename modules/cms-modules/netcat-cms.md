@@ -2,7 +2,7 @@
 
 ### Инструкция по настройке и установке модуля. <a id="instrukciya-po-nastroike-i-ustanovke-modulya"></a>
 
-1. Скачайте [архив](https://github.com/unitpay/netcat-module/releases/download/1.0.1/netcat-module-1.0.1.zip) с модулем.
+1. Скачайте [архив](https://github.com/unitpay/netcat-module/archive/v2.0.1.zip) с модулем.
 
 2. Скопируйте содержимое директории "unitpay" из архива в корень вашего сайта.
 
