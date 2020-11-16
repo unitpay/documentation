@@ -2,7 +2,7 @@
 
 ### Инструкция по настройке и установке модуля. <a id="instrukciya-po-nastroike-i-ustanovke-modulya"></a>
 
-1. Скачайте [архив](https://github.com/unitpay/ubercart-module) с модулем.
+1. Скачайте [архив](https://github.com/unitpay/ubercart-module/archive/v2.0.1.zip) с модулем.
 
 2. Установите модуль. Для этого скопируйте содержимое директории unitpay из архива по адресу &lt;папка с вашим сайтом&gt;/sites/all/modules После этого нажмите в меню "Модули", поставьте галочку напротив Unitpay и нажмите на кнопку "Save configuration".
 
