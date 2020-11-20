@@ -1,5 +1,7 @@
 # Создание выплаты
 
+Через API возможно настроить только массовые выплаты.  
+  
 Для взаимодействия с API используйте библиотеку [Unitpay PHP-SDK](https://github.com/unitpay/php-sdk)
 
 https://unitpay.money/api?  
