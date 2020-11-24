@@ -62,6 +62,7 @@
     * [UCoz](modules/cms-modules/ucoz.md)
     * [CMS-S3](modules/cms-modules/cms-s3.md)
 * [Личный кабинет](unitpay-management/README.md)
+  * [Инструкция по интерфейсу](unitpay-management/instrukciya-po-interfeisu.md)
   * [Подключение WebMoney](unitpay-management/podklyuchenie-webmoney.md)
   * [Подключение PayPal](unitpay-management/podklyuchenie-paypal.md)
   * [Подключение Яндекс.Деньги](unitpay-management/podklyuchenie-yandeks.dengi.md)
