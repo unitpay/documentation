@@ -61,6 +61,7 @@
     * [Tilda](modules/cms-modules/tilda.md)
     * [UCoz](modules/cms-modules/ucoz.md)
     * [CMS-S3](modules/cms-modules/cms-s3.md)
+    * [BILLmanager](modules/cms-modules/billmanager.md)
 * [Личный кабинет](unitpay-management/README.md)
   * [Инструкция по интерфейсу](unitpay-management/instrukciya-po-interfeisu.md)
   * [Подключение WebMoney](unitpay-management/podklyuchenie-webmoney.md)
