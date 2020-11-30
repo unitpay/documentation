@@ -14,9 +14,13 @@
 
 4. Нажмите "Добавить способ оплаты".
 
-5. В способах оплаты выберите Unitpay, а также введите DOMAIN \(unitpay.money\), PUBLIC KEY и SECRET KEY, которые вы можете взять в личном кабинете на сайте Unitpay.ru. После настройки способа оплаты нажмите "Сохранить".  
-  
+5. В способах оплаты выберите Unitpay, а также введите DOMAIN \(unitpay.money\), PUBLIC KEY и SECRET KEY, которые вы можете взять в личном кабинете на сайте Unitpay.ru.
+
+![](../../.gitbook/assets/4253476sh.png)
+
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/551a91dbe4b0221aadf24410/images/5e68f24f2c7d3a7e9ae9043c/file-0mVe14P1jr.png)
+
+После настройки способа оплаты нажмите "Сохранить".
 
 5. Введите в личном кабинете Unitpay.ru обработчик платежей по шаблону [http://&lt;имя](http://xn--/%3C-5ddu8i/) вашего сайта&gt;/payment/unitpay/callback.php[  
 ](https://help.unitpay.ru/gotovye-moduli/modules/shopcms)
