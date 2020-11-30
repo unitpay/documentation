@@ -2,7 +2,11 @@
 
 ### Инструкция по настройке и установке модуля. <a id="instrukciya-po-nastroike-i-ustanovke-modulya"></a>
 
-1. Скачайте [архив](https://github.com/unitpay/simpla-module) с модулем.
+{% hint style="info" %}
+В Simpla нет возможности задать НДС для конкретных товаров. По умолчанию ставится "без НДС" или ставка, которую вы выберите при заполнение реквизитов в "**Выплатах**" в личном кабинете Unitpay.
+{% endhint %}
+
+1. Скачайте [архив](https://github.com/unitpay/simpla-module/archive/master.zip) с модулем.
 
 2. Скопируйте содержимое директории unitpay из архива в &lt;корень вашего сайта&gt;/payment.
 
