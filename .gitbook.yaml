@@ -49,3 +49,5 @@ redirects:
   category/187-category: other/test-api.md
   article/249-telegram: other/telegram.md
   article/168-telegram: other/telegram.md
+  article/49-appearance-forms-payment: book-of-reference/payment-form.md
+  article/31-creating-payment-from-payment-form: payments/create-payment-easy.md
