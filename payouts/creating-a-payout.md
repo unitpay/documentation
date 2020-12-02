@@ -1,6 +1,8 @@
 # Creating a Payout
 
-To interact with the API, use the [Unitpay PHP-SDK](https://github.com/unitpay/php-sdk) library![](https://gblobscdn.gitbook.com/assets%2F-M9Y_k8Gr-WxeECFRelw%2F-MA1PsbiuaLGnU-0ocfd%2F-MA1Qei3BAvr5qEc9hSx%2Fimage.png?alt=media&token=3651d60b-2f9a-43d3-94e7-8eab285bd829)
+To interact with the API, use the [Unitpay PHP-SDK](https://github.com/unitpay/php-sdk) library
+
+![](https://gblobscdn.gitbook.com/assets%2F-M9Y_k8Gr-WxeECFRelw%2F-MA1PsbiuaLGnU-0ocfd%2F-MA1Qei3BAvr5qEc9hSx%2Fimage.png?alt=media&token=3651d60b-2f9a-43d3-94e7-8eab285bd829)
 
 **Required parameters:**
 
@@ -21,11 +23,17 @@ To interact with the API, use the [Unitpay PHP-SDK](https://github.com/unitpay/p
 | :--- | :--- | :--- |
 | **projectId** | number | Unique project ID in the UnitPay system |
 
+{% hint style="danger" %}
+If you need to check the status of a payment after creating it, use the "[Information about Payout](https://help.unitpay.money/v/en/payouts/information-about-payout)"
+{% endhint %}
+
 **IMPORTANT NOTE**: always use a unique **transactionId** for new payouts; when you get an existing **transactionId** \(regardless of other parameters\), the current payout status is returned
 
 You can run the query in test mode. [Learn more](https://help.unitpay.ru/v/master/book-of-reference/test-api)​
 
-**Successful response**![](https://gblobscdn.gitbook.com/assets%2F-M9Y_k8Gr-WxeECFRelw%2F-MA1PsbiuaLGnU-0ocfd%2F-MA1QpF_Mls0xwwC-K0X%2Fimage.png?alt=media&token=186cdf87-92cd-4661-82c1-059fc4f85509)
+**Successful response**
+
+![](https://gblobscdn.gitbook.com/assets%2F-M9Y_k8Gr-WxeECFRelw%2F-MA1PsbiuaLGnU-0ocfd%2F-MA1QpF_Mls0xwwC-K0X%2Fimage.png?alt=media&token=186cdf87-92cd-4661-82c1-059fc4f85509)
 
 | ​ | **Value** | **Description** |
 | :--- | :--- | :--- |
@@ -39,7 +47,9 @@ You can run the query in test mode. [Learn more](https://help.unitpay.ru/v/maste
 | **payoutCommission** | number | Payout commission |
 | **partnerCommission** | number | Partner commission |
 
-**Error response**![](https://gblobscdn.gitbook.com/assets%2F-M9Y_k8Gr-WxeECFRelw%2F-MA1PsbiuaLGnU-0ocfd%2F-MA1Qucqr93VfQkHFTJT%2Fimage.png?alt=media&token=b14c59f7-5d20-4451-b1c5-696a11bfeaf7)
+**Error response**
+
+![](https://gblobscdn.gitbook.com/assets%2F-M9Y_k8Gr-WxeECFRelw%2F-MA1PsbiuaLGnU-0ocfd%2F-MA1Qucqr93VfQkHFTJT%2Fimage.png?alt=media&token=b14c59f7-5d20-4451-b1c5-696a11bfeaf7)
 
 | ​ | **Value** | **Description** |
 | :--- | :--- | :--- |
