@@ -7,10 +7,13 @@
 3. Go to Modules -&gt;Payment.
 4. Select Unitpay and click Install Module.
 5. Click the Edit button for unitpay.
+
+   ![](../../.gitbook/assets/2020-12-04_162611.png)
+
 6. Enter the domain \(DOMAIN\) - unitpay.money, public key \(PUBLIC KEY\) and secret key \(SECRET KEY\), you can find them in your unitpay.money account.
 7. If you need to, also enter the sorting order \(in what order the payment systems will be displayed on the payment system selection page\), the status of the order which will appear in case of successful payment \(it is Paid\[Unitpay\] by default\) and the status of the order which will appear in case of failed payment \(it is Error\[Unitpay\] by default\).
 8. Click Save.
 9. In your Unitpay account, enter the address of the payment handler [http://&lt;your](http://%3Cyour/) site address&gt;/unitpay.php
 
-![](https://gblobscdn.gitbook.com/assets%2Fdokumentacziya%2F-M9xezG_6tZ_3GRmvyig%2F-M9y4B3lh565FfIG1L-q%2F0.png?alt=media)https://d33v4339jhl8k0.cloudfront.net/docs/assets/551a91dbe4b0221aadf24410/images/583307d8903360645bfa6b08/file-yFI7WfJudH.png
+![](https://gblobscdn.gitbook.com/assets%2Fdokumentacziya%2F-M9xezG_6tZ_3GRmvyig%2F-M9y4B3lh565FfIG1L-q%2F0.png?alt=media)
 

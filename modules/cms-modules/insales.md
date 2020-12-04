@@ -16,9 +16,5 @@
 
 **Integration is complete.**
 
-{% hint style="warning" %}
-Do not use the url from the "URL to go to on successful payment/error" fields inside Insales to redirect users after successful/erroneous payment. These are technical addresses, and there will be a 404 error when clicking on them.
-{% endhint %}
-
 **Should you have any questions, please do not hesitate to contact your account manager or use our 24/7 Unit.Help chat widget.**
 
