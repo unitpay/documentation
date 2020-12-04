@@ -2,7 +2,7 @@
 
 **The Module Setup and Installation Instruction**
 
-1. Download the [archive](https://github.com/unitpay/oscommerce-module) with the module.
+1. Download the [archive](https://github.com/unitpay/oscommerce-module/archive/master.zip) with the module.
 2. Copy the contents of the unitpay directory from the archive to the root of your site.
 3. Go to Modules -&gt;Payment.
 4. Select Unitpay and click Install Module.
