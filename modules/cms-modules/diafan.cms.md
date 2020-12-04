@@ -2,7 +2,7 @@
 
 ### Инструкция по настройке и установке модуля. <a id="instrukciya-po-nastroike-i-ustanovke-modulya"></a>
 
-1. Скачайте [архив](https://github.com/unitpay/diafan-module) с модулем.
+1. Скачайте [архив](https://github.com/unitpay/diafan-module/archive/master.zip) с модулем.
 
 2. Скопируйте содержимое директории "unitpay" из архива в корень вашего сайта.
 
@@ -10,5 +10,7 @@
 
 4. Введите DOMAIN \(unitpay.money\), PUBLIC KEY и SECRET KEY, которые вы можете взять в личном кабинете Unitpay.money.
 
-5. В личном кабинете Unitpay введите адрес обработчика платежей [http://](http://diafan.app/payment/get/unitpay)​[&lt;адрес](http://xn--/%3C-8cdug0fj/) вашего сайта&gt;[/payment/get/unitpay![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/551a91dbe4b0221aadf24410/images/583ffc2dc6979106d3738e1d/file-cDEUFxJ665.png)](http://diafan.app/payment/get/unitpay)
+5. В личном кабинете Unitpay введите адрес обработчика платежей [http://](http://diafan.app/payment/get/unitpay)​[&lt;адрес](http://xn--/%3C-8cdug0fj/) вашего сайта&gt;[/payment/get/unitpay](http://diafan.app/payment/get/unitpay)
+
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/551a91dbe4b0221aadf24410/images/583ffc2dc6979106d3738e1d/file-cDEUFxJ665.png)
 
