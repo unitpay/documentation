@@ -4,9 +4,13 @@
 
 1.Download the [archive](https://github.com/unitpay/amiro-module/archive/master.zip) with the module.
 
-2. Click on the link [**http://your\_site/\_admin/engine.php?mod\_id=ami\_market&upload=1**](http://xn--_-7sbbf2b7bj7b/_admin/engine.php?mod_id=ami_market&upload=1)​
+{% hint style="info" %}
+Feature of Amiro: after downloading the archive with the module, it must be re-archived in tag.gz, otherwise the module will not be added to the root.
+{% endhint %}
 
-3. Select the downloaded archive with the module as the distribution file and load it.
+2. Click on the link [**http://your\_site/\_admin/engine.php?mod\_id=ami\_market&upload=1**](http://xn--_-7sbbf2b7bj7b/_admin/engine.php?mod_id=ami_market&upload=1)
+
+3. Select the downloaded archive tag.gz with the module as the distribution file and load it.
 
 ![](../../.gitbook/assets/am1%20%281%29.png)
 
