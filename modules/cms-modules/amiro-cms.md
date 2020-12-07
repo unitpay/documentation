@@ -4,9 +4,13 @@
 
 1. Скачайте [архив](https://github.com/unitpay/amiro-module/archive/master.zip) с модулем.
 
+{% hint style="info" %}
+Особенность Amiro: после скачивания архива с модулем его необходимо переархивировать в формат tag.gz, иначе модуль не добавится в корень.
+{% endhint %}
+
 2. Перейдите по ссылке [**http://ваш\_сайт/\_admin/engine.php?mod\_id=ami\_market&upload=1**](http://xn--_-7sbbf2b7bj7b/_admin/engine.php?mod_id=ami_market&upload=1)​
 
-3. Выберите в качестве файла дистрибутива скачанный архив с модулем и загрузите его.
+3. Выберите в качестве файла дистрибутива архив в формате tag.gz с модулем и загрузите его.
 
 ![](../../.gitbook/assets/am1.png)
 
