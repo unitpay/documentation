@@ -44,6 +44,7 @@
     * [Joomshopping 4 \(joomla 3\)](modules/cms-modules/joomshopping-4-joomla-3.md)
     * [LogicBoxes](modules/cms-modules/logicboxes.md)
     * [Magento](modules/cms-modules/magento.md)
+    * [Magento 2](modules/cms-modules/magento-2.md)
     * [Netcat CMS](modules/cms-modules/netcat-cms.md)
     * [OpenCart](modules/cms-modules/opencart.md)
     * [osCommerce](modules/cms-modules/oscommerce.md)
