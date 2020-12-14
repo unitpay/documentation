@@ -67,7 +67,7 @@
   * [Инструкция по интерфейсу](unitpay-management/instrukciya-po-interfeisu.md)
   * [Подключение WebMoney](unitpay-management/podklyuchenie-webmoney.md)
   * [Подключение PayPal](unitpay-management/podklyuchenie-paypal.md)
-  * [Подключение Яндекс.Деньги](unitpay-management/podklyuchenie-yandeks.dengi.md)
+  * [Подключение ЮMoney \(бывшие "Яндекс.Деньги"\)](unitpay-management/podklyuchenie-yandeks.dengi.md)
   * [Текущий баланс](unitpay-management/balance.md)
   * [Комиссии проекта](unitpay-management/commissions.md)
   * [Курсы конвертации валют](unitpay-management/conversion-rates.md)
