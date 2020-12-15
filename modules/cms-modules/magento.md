@@ -2,7 +2,7 @@
 
 **The Module Setup and Installation Instruction**
 
-1. Download the [archive](https://github.com/unitpay/magento-module) with the module.
+1. Download the [archive](https://github.com/unitpay/magento-module/archive/master.zip) with the module.
 2. Copy the contents of the unitpay directory from the archive to the root of your site.
 3. Disable caching, to do this, go to the System -&gt; Cache management, click Select all and select Actions Disable in the drop-down list on the right, then click Submit.
 
