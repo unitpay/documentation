@@ -1,7 +1,5 @@
 # ShopCMS
 
-### 
-
 **The Module Setup and Installation Instruction**
 
 1. Download the [archive](https://github.com/unitpay/shopcms-module/archive/master.zip) with the module.
