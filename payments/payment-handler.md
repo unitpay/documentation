@@ -55,6 +55,32 @@ https://адрес_вашего_обработчика?
 | **subscriptionId** | число | Идентификатор подписки, возвращается после успешной оплаты установочного платежа по подписке. Присутствует при PREAUTH и PAY уведомлениях |
 | **signature** | string | Цифровая подпись. Образуется как sha256\(method + "{up}" + params + "{up}" + secretKey\),  где **sha256** - метод шифрования; **"{up}"** - разделитель параметров в хеш-функции; **method** - тип вызова \(check, pay, error\); **params** - значения параметров из массива params, объединенные разделителем "{up}". Все параметры должны быть предварительно отсортированы по ключу, в склейке не участвуют параметры sign и signature; **secretKey** - секретный ключ проекта \(доступен в личном кабинете\);  Пример расчета подписи для запроса [**http://partnerUrl?method=check & params\[b\]=bob & params\[c\]=sam & params\[a\]=tod**](http://partnerurl/?method=check%20&%20params[b]=bob&params[c]=sam&params[a]=tod)и секретного ключа **"a1b1c1d1"**  **sha256**\("check{up}tod{up}bob{up}sam{up}a1b1c1d1"\) |
 
+**Пример формирования цифровой подписи на PHP:**
+
+```text
+function getFormSignature($account, $currency, $desc, $sum, $secretKey) {
+    $hashStr = $account.'{up}'.$currency.'{up}'.$desc.'{up}'.$sum.'{up}'.$secretKey;
+    return hash('sha256', $hashStr);
+}
+```
+
+**Пример формирования цифровой подписи на Perl:**
+
+```text
+sub getSignature {
+    my ($method, $params, $secretKey) = @_;
+    delete $params-&gt;{sign};
+    delete $params-&gt;{signature};
+    my $s = $method;
+    foreach my $key (sort keys %{$params}) {
+        $s .= '{up}' . $params-&gt;{$key};
+    }
+    $s .= '{up}' . $secretKey;
+    use Digest::SHA qw(sha256_hex);
+    return sha256_hex($s);
+}
+```
+
 Всегда проверяйте [IP адреса](../book-of-reference/ip-addresses.md), с которых приходят запросы к обработчику платежей
 
 **ВАЖНО:** в системе партнера не должно быть двух разных платежей с одним unitpayId. При получении повторного запроса CHECK или PAY необходимо вернуть результат выполнения предыдущего запроса, ничего не пополняя/зачисляя
