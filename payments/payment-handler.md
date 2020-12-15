@@ -184,14 +184,6 @@ http://your_payment_handler_address?
   </tbody>
 </table>
 
-**Example of creating a digital signature in PHP:**
-
-![](../.gitbook/assets/image%20%288%29.png)
-
-**Example of creating a digital signature in Perl:**
-
-![](../.gitbook/assets/image%20%2851%29.png)
-
 Always check the [IP addresses]() from which requests are sent to your handler
 
 **IMPORTANT NOTE:** the partner's system cannot have two different payments with the same unitpayId. If you receive a repeated CHECK or PAY request, you must return the result of the previous request without depositing/crediting anything
