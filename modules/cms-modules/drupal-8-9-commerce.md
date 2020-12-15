@@ -24,11 +24,11 @@
 
 ![](../../.gitbook/assets/213514da544a8913f88105cb2135f9ae.png)
 
-7. Валюта задается в двух местах. Commerce -&gt; Configuration -&gt; Currencies
+6. Валюта задается в двух местах. Commerce -&gt; Configuration -&gt; Currencies
 
 ![](../../.gitbook/assets/3090bece182e7d76cda5a2aba84eb2ec.png)
 
-8. И далее, чтобы появилась возможность менять в товарах, нужно добавить в "Product types". Commerce -&gt; Configuration -&gt; Product types -&gt; Edit Default -&gt; Manage fields
+7. И далее, чтобы появилась возможность менять в товарах, нужно добавить в "Product types". Commerce -&gt; Configuration -&gt; Product types -&gt; Edit Default -&gt; Manage fields
 
 ![](../../.gitbook/assets/1111.png)
 
@@ -38,7 +38,7 @@
 
 ![](../../.gitbook/assets/4444.png)
 
-9. Аналогично требуется проделать для "variation types". Commerce -&gt; Configuration -&gt; Product variation types -&gt; Edit Default -&gt; Manage fields
+8. Аналогично требуется проделать для "variation types". Commerce -&gt; Configuration -&gt; Product variation types -&gt; Edit Default -&gt; Manage fields
 
 
 
