@@ -2,7 +2,7 @@
 
 ### Инструкция по настройке и установке модуля.
 
-1. Скачайте [архив](https://github.com/unitpay/shopcms-module/releases/download/v2.0.1/phpshop-module-2.0.1.zip) модуля.
+1. Скачайте [архив](https://github.com/unitpay/shopcms-module/archive/master.zip) модуля.
 
 2. Скопируйте содержимое директории "unitpay" из архива в корень вашего сайта.
 
@@ -11,6 +11,8 @@
 4. Нажмите "Редактировать" напротив установленного модуля "Unitpay".
 
 5. Введите DOMAIN - unitpay.money, PUBLIC KEY и SECRET KEY, которые вы можете взять из личного кабинета Unitpay.ru.
+
+![](../../.gitbook/assets/scms_nastroiki-modulya.png)
 
 6. Выберите статусы, в которые будет устанавливаться заказ после успешной оплаты либо ошибки.
 
