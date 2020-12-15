@@ -2,7 +2,7 @@
 
 ### Инструкция по настройке и установке модуля.
 
-1. Скачайте [архив](https://github.com/unitpay/magento-module) с модулем.
+1. Скачайте [архив](https://github.com/unitpay/magento-module/archive/master.zip) с модулем.
 
 2. Скопируйте содержимое директории unitpay из архива в корень вашего сайта.
 
