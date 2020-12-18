@@ -6,14 +6,15 @@
 2. Unpack the contents of the archive to the root of the site.
 3. Add the following lines in phpshop/inc/config.php file:
 
-![](https://gblobscdn.gitbook.com/assets%2Fdokumentacziya%2F-M9xezG_6tZ_3GRmvyig%2F-M9y2jxeOnvVahoMG3u1%2F0.png?alt=media)
+```text
+[unitpay]​domain = "unitpay.money";​ public_key = "<Ваш публичный ключ из личного кабинета unitpay>";​secret_key = "<Ваш секретный ключ из личного кабинета unitpay>";
+```
 
-| Ваш публичный ключ из личного кабинета unitpay.money | Your public key from your unitpay.money account |
-| :--- | :--- |
-| Ваш секретный ключ из личного кабинета unitpay.money | Your secret key from your unitpay.money account |
+4. In the admin panel, go to Orders -&gt; Payment Methods and add Unitpay payment method. Check that the "Show" checkbox is checked.
 
-1. In the admin panel, go to Orders -&gt; Payment Methods and add Unitpay payment method.
-2. In your unitpay.money account, enter the address of the payment handler [http://&lt;your](http://%3Cyour/) site address&gt;/payment/unitpay/result.php
+![](../../.gitbook/assets/php1%20%281%29.png)
 
-![](https://gblobscdn.gitbook.com/assets%2Fdokumentacziya%2F-M9xezG_6tZ_3GRmvyig%2F-M9y2jxfzUkZVJDZikXI%2F1.png?alt=media)https://d33v4339jhl8k0.cloudfront.net/docs/assets/551a91dbe4b0221aadf24410/images/58cc04892c7d3a79f5f8d4f5/file-8ygNqAPAqM.png
+5. In your unitpay.money account, enter the address of the payment handler [http://&lt;your](http://%3Cyour/) site address&gt;/payment/unitpay/result.php
+
+![](https://gblobscdn.gitbook.com/assets%2Fdokumentacziya%2F-M9xezG_6tZ_3GRmvyig%2F-M9y2jxfzUkZVJDZikXI%2F1.png?alt=media)
 
