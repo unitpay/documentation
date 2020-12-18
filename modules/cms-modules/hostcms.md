@@ -1,26 +1,36 @@
 # HostCMS
 
-1. Скачайте [модуль](https://github.com/unitpay/hostcms-module/releases/download/1.0.1/hostcms-module-1.0.1.zip)​
+1.Скачайте [модуль](https://github.com/unitpay/hostcms-module/archive/master.zip)
 
 2. Перейдите в административную панель вашего сайта
 
 3. Перейдите в Контент-&gt;Интернет-магазины, выберите ваш магазин и затем перейдите в справочники-&gt;платежные системы.
 
+![](../../.gitbook/assets/h1.png)
+
 4.Добавьте новую платежную систему, в названии напишите Unitpay, в описание допустим "платежная система Unitpay" и нажмите применить.
 
 5. Нажмите кнопку редактировать напротив платежной системы Unitpay, далее перейдите на вкладку "дополнительные" и запомните число в поле "Идентификатор"
 
-​![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/551a91dbe4b0221aadf24410/images/5836d65c9033600698172453/file-AlNALyI8nn.png)​
+![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/551a91dbe4b0221aadf24410/images/5836d65c9033600698172453/file-AlNALyI8nn.png)
 
 6. Далее перейдите на вкладку "основные" и в поле "обработчик" скопируйте содержимое файла модуля handlerXX.php
 
+![](../../.gitbook/assets/h3.jpg)
+
 7. В названии класса Shop\_Payment\_System\_HandlerXX вместо XX введите запомненный ранее идентификатор.
 
-8. В обработчике же введите значения переменных $domain = 'unitpay.money', $public\_key и $secret\_key которые вы можете взять в личном кабинете unitpay.ru
+8. В обработчике же введите значения переменных $domain = 'unitpay.money', $public\_key и $secret\_key которые вы можете взять в личном кабинете unitpay.money
 
 9. По необходимости значению переменной $currency\_name нужно присвоить код валюты\(которая присутствует в магазине\), в которой вы хотите принимать платежи, по умолчанию стоит RUB
 
-10. В личном кабинете Unitpay.money введите адрес обработчика платежей [http://&lt;адрес](http://xn--/%3C-8cdug0fj/) вашего сайта&gt;/shop/cart/  
-  
+10. В личном кабинете Unitpay.money введите адрес обработчика платежей [http://&lt;адрес](http://xn--%3C-8cdug0fj/) вашего сайта&gt;/shop/cart/
+
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/551a91dbe4b0221aadf24410/images/5836d9a3c6979106d373617d/file-WigCbE6rTX.png)
+
+12. Для того чтобы изменить валюту во всем магазине перейдите в Контент -&gt; Интернет-магазины, нажмите редактировать.
+
+![](../../.gitbook/assets/h6.jpg)
+
+![](../../.gitbook/assets/h7.jpg)
 
