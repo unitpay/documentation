@@ -2,7 +2,7 @@
 
 **The Module Setup and Installation Instruction**
 
-1. Download the [archive](https://github.com/unitpay/phpshop-module) with the module.
+1. Download the [archive](https://github.com/unitpay/phpshop-module/archive/master.zip) with the module.
 2. Unpack the contents of the archive to the root of the site.
 3. Add the following lines in phpshop/inc/config.php file:
 
