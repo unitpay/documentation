@@ -2,7 +2,7 @@
 
 ### Инструкция по настройке и установке модуля. <a id="instrukciya-po-nastroike-i-ustanovke-modulya"></a>
 
-1. Скачайте [архив](https://github.com/unitpay/vamshop-module) с модулем.
+1. Скачайте [архив](https://github.com/unitpay/vamshop-module/archive/master.zip) с модулем.
 
 2. Скопируйте содержимое директории "unitpay" из архива в корень вашего сайта.
 
