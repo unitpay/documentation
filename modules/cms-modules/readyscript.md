@@ -2,7 +2,7 @@
 
 ### Инструкция по настройке и установке модуля.
 
-1. Скачайте  [архив](https://github.com/unitpay/readyscript-module) с модулем.
+1. Скачайте  [архив](https://github.com/unitpay/readyscript-module/archive/master.zip) с модулем.
 
 2. Распакуйте содержимое архива в корень сайта.
 
