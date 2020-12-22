@@ -2,7 +2,7 @@
 
 **The Module Setup and Installation Instruction**
 
-1. Download the [archive](https://github.com/unitpay/readyscript-module/archive/master.zip) with the module.
+1. Download the [archive](https://github.com/unitpay/readyscript-module) with the module.
 2. Unpack the contents of the archive to the root of the site.
 3. Go to the site admin panel.
 4. Go to the Website -&gt; Module settings.
