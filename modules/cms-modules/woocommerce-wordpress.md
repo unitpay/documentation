@@ -4,7 +4,7 @@
 
 **Важно!!!** Если вы используете Wordpress и для формирования запросов к нашей платформе пользуетесь не нашим модулем, а [api](https://help.unitpay.ru/payments/create-payment), то вам необходимо обратиться к менеджеру UnitPay для помещения вашего IP в белый список.
 
-1. Скачайте [архив](https://github.com/unitpay/woocommerce-module/archive/master.zip) с модулем.
+1. Скачайте [архив](https://github.com/unitpay/woocommerce-module/archive/2.1.1.zip) с модулем.
 
 2. Скопируйте содержимое директории unitpay в архиве в директорию /&lt;корень сайта&gt;/wp-content/plugins/.
 
