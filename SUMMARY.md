@@ -79,6 +79,7 @@
   * [Статусы и ошибки платежей](book-of-reference/statuses.md)
   * [Коды операторов](book-of-reference/operator-codes.md)
   * [Коды платежных систем](book-of-reference/payment-system-codes.md)
+  * [Буквенные коды валют](book-of-reference/bukvennye-kody-valyut.md)
   * [Коды стран Qiwi](book-of-reference/qiwi-country-codes.md)
 * [Реферальная программа](referral-program/README.md)
   * [Интерфейс кабинета реферера \(агента\)](referral-program/interface-of-referrer.md)
