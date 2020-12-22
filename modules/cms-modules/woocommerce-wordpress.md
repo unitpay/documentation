@@ -4,7 +4,7 @@
 
 **Important Note!!!** If you use Wordpress and the [api](../../payments/create-payment.md) instead of our module to generate requests to our platform, you need to contact the UnitPay manager to whitelist your IP.
 
-1. Download the [archive](https://github.com/unitpay/woocommerce-module/archive/master.zip) with the module.
+1. Download the [archive](https://github.com/unitpay/woocommerce-module/releases/download/v2.0.1/woocommerce-module-2.0.1.zip) with the module.
 2. Copy the contents of the unitpay directory in the archive to the /&lt;site root&gt;/wp-content/plugins/ directory.
 3. Go to Plugins -&gt; Installed and click Enable next to the UnitPay plugin.
 4. In the menu, go to the WooCommerce -&gt; Settings and then go to the Payments tab and select UnitPay there.
