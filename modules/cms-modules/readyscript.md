@@ -16,9 +16,12 @@
 
 7. Перейдите в "Магазин"-&gt; "Способы оплаты".
 
-8. Нажмите "Добавить способ оплаты" и настройте новую платежную систему. Не забудьте указать DOMAIN \(unitpay.money\), а также PUBLIC KEY и SECRET KEY, которые вы можете взять в личном кабинете unitpay.ru.
+8. Нажмите "Добавить способ оплаты" и настройте новую платежную систему. Не забудьте указать DOMAIN \(unitpay.money\), а также PUBLIC KEY и SECRET KEY, которые вы можете взять в личном кабинете unitpay.money.
 
-9. В личном кабинете unitpay.ru введите адрес обработчика платежей  [http://](http://%20/)[&lt;адрес](http://xn--%3C-8cdug0fj/)вашего сайта&gt;[/onlinepay/unitpay/result/](http://ttestt.ru/onlinepay/unitpay/result/)
+![](../../.gitbook/assets/rs1.png)
+
+9. В личном кабинете unitpay.ru введите адрес обработчика платежей    
+[http://](http://%20/)[&lt;адрес](http://xn--%3C-8cdug0fj/) вашего сайта&gt;[/onlinepay/unitpay/result/](http://ttestt.ru/onlinepay/unitpay/result/)
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/551a91dbe4b0221aadf24410/images/58dced772c7d3a52b42f0f2a/file-3ICMy8RBWB.png)
 
