@@ -10,7 +10,11 @@
 6. Install the Unitpay module. To do this, click the Not installed button next to the module.
 7. Go to Store -&gt; Payment Methods.
 8. Click Add payment method and set up a new payment system. Do not forget to enter DOMAIN \(unitpay.money\), PUBLIC KEY, and SECRET KEY which you can get in your unitpay.money personal account.
-9. In your unitpay.money account, enter the address of the payment handler [http://&lt;your](http://<your) site address&gt;[/onlinepay/unitpay/result/](http://ttestt.ru/onlinepay/unitpay/result/)
+
+![](../../.gitbook/assets/rs1.png)
+
+9. In your unitpay.money account, enter the address of the payment handler   
+[http://&lt;your](http://<your) site address&gt;[/onlinepay/unitpay/result/](http://ttestt.ru/onlinepay/unitpay/result/)
 
 ![](../../.gitbook/assets/image%20%2829%29.png)
 
