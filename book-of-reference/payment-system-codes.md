@@ -12,5 +12,4 @@
 | **alfaClick** | Альфа-Клик | Наиболее популярный и удобный интернет-банк |
 | **applepay** | Apple Pay | Прием платежей с карт с помощью Apple Pay |
 | **samsungpay** | Samsung Pay | Прием платежей с карт с помощью Samsung Pay |
-| **googlepay** | Google Pay | Прием платежей с карт с помощью Google Pay |
 
