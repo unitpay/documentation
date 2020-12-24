@@ -13,4 +13,6 @@
 | **paypal** | PayPal | The largest e-money operator in the world |
 | **alfaClick** | Alfa-Click | The most popular and convenient Internet bank |
 | **applepay** | Apple Pay | Accepting payments by cards by means of Apple Pay |
+| **samsungpay** | Samsung Pay | Accepting payments by cards by means of Samsung Pay |
+| **googlepay** | Google Pay | Accepting payments by cards by means of Google Pay |
 
