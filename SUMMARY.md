@@ -40,6 +40,7 @@
     * [Drupal 7 \(commerce\)](modules/cms-modules/drupal-7-commerce.md)
     * [Drupal 7 \(ubercart 3\)](modules/cms-modules/drupal-7-ubercart-3.md)
     * [Drupal 8, 9 \(commerce\)](modules/cms-modules/drupal-8-9-commerce.md)
+    * [Ecwid](modules/cms-modules/ecwid.md)
     * [HostCMS](modules/cms-modules/hostcms.md)
     * [InSales](modules/cms-modules/insales.md)
     * [Joomshopping 4 \(joomla 3\)](modules/cms-modules/joomshopping-4-joomla-3.md)
