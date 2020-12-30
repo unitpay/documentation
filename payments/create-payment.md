@@ -86,6 +86,10 @@ sub getSignature {
 Запрос можно выполнить в тестовом режиме. [Узнать подробнее](../other/test-api.md)
 {% endhint %}
 
+{% hint style="info" %}
+По мере выполнения платежа мы уведомляем платформу магазина о статусе оплаты, последовательно [отправляя GET запросы на URL обработчика](https://help.unitpay.money/payments/payment-handler).
+{% endhint %}
+
 #### Успешный ответ
 
 {% tabs %}
