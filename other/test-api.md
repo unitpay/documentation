@@ -20,7 +20,7 @@
 
 Для работы с тестовым API необходимо получить тестовый секретный ключ.  
 Для этого:  
-1\) Перейдите на страницу [настройки профиля](https://unitpay.ru/partner/profile/edit);  
+1\) Перейдите на страницу [настройки профиля](https://unitpay.money/partner/profile/edit);  
 2\) Справа вы увидите блок с секретными ключами. Скопируйте секретный ключ для **тестового режима;**
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/551a91dbe4b0221aadf24410/images/5e71e6a42c7d3a7e9ae959e4/file-Hb2uRgHANG.png)
