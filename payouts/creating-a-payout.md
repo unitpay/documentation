@@ -29,7 +29,7 @@ If you need to check the status of a payment after creating it, use the "[Inform
 
 **IMPORTANT NOTE**: always use a unique **transactionId** for new payouts; when you get an existing **transactionId** \(regardless of other parameters\), the current payout status is returned
 
-You can run the query in test mode. [Learn more](https://help.unitpay.money/v/en/other/test-api)​
+You can run the query in test mode. [Learn more](https://help.unitpay.ru/v/master/book-of-reference/test-api)​
 
 **Successful response**
 
