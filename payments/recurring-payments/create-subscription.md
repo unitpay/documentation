@@ -12,3 +12,7 @@ Creating a subscription includes three steps:
 
 After successfully creating a subscription, you can debit funds from the client's card \(the subscription must have the active status\) using the standard mechanism of [creating payment](../create-payment.md) via the API and transmitting the subscription ID to the parameter: **params \[subscriptionId\]=XXX**. The amount and frequency of debiting is determined on the partner's side.
 
+{% hint style="warning" %}
+Subscriptions do not work simultaneously with [Payments with Pre-authorization](https://help.unitpay.money/v/en/payments/pre-authorization-payments)
+{% endhint %}
+
