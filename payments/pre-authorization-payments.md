@@ -126,7 +126,3 @@ ID платежа в системе UnitPay.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% hint style="warning" %}
-Двухстадийные платежи не работают одновременно с [подписками](https://help.unitpay.money/payments/recurring-payments/create-subscription)
-{% endhint %}
-
