@@ -68,6 +68,7 @@
     * [MODX \(miniShop2\)](modules/cms-modules/modx-minishop2.md)
 * [Личный кабинет](unitpay-management/README.md)
   * [Инструкция по интерфейсу](unitpay-management/instrukciya-po-interfeisu.md)
+  * [Добавление кошелька UnitWallet](unitpay-management/dobavlenie-koshelka-unitwallet.md)
   * [Подключение WebMoney](unitpay-management/podklyuchenie-webmoney.md)
   * [Подключение PayPal](unitpay-management/podklyuchenie-paypal.md)
   * [Подключение ЮMoney \(бывшие "Яндекс.Деньги"\)](unitpay-management/podklyuchenie-yandeks.dengi.md)
