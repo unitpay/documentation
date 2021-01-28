@@ -40,3 +40,7 @@ You can run the query in test mode. [Learn more](../other/test-api.md)
 | :--- | :--- | :--- |
 | **message** | line | Information with a description of the request error |
 
+{% hint style="danger" %}
+You can only make one full or partial refund per payment.
+{% endhint %}
+
