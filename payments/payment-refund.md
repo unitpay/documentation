@@ -65,6 +65,10 @@ ID платежа в системе UnitPay
 | :--- | :--- | :--- |
 | **message** | string | Информация с описанием ошибки запроса |
 
+{% hint style="danger" %}
+По одному платежу вы можете сделать только один полный или частичный возврат.
+{% endhint %}
+
 {% hint style="info" %}
 Вы можете воспользоваться готовой библиотекой [Unitpay PHP-SDK](https://github.com/unitpay/php-sdk) 
 {% endhint %}

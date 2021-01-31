@@ -34,6 +34,7 @@
     * [PHPShop](modules/cms-modules/phpshop.md)
     * [CMS NWICODE](modules/cms-modules/cms-nwicode.md)
     * [1C Bitrix](modules/cms-modules/1c-bitrix.md)
+    * [AmoCRM](modules/cms-modules/amocrm.md)
     * [Amiro CMS](modules/cms-modules/amiro-cms.md)
     * [CS-Cart](modules/cms-modules/cs-cart.md)
     * [DIAFAN.CMS](modules/cms-modules/diafan.cms.md)
