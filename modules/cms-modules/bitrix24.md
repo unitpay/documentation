@@ -20,7 +20,7 @@
 
 ![](../../.gitbook/assets/bx24-1.png)
 
-2. Добавьте: домен \(unitpay.money\), Public Key, Secret Key \(их можно взять в настройках проекта в личном кабинете Unitpay\). Если у вас подключены "Юнит.Чеки", то задайте НДС, НДС доставки и "Тип позиции" \(подробнее о [параметрах в чеках](https://help.unitpay.ru/online-cash-register/receipt_parameters)\).
+2. Добавьте: домен \(unitpay.money\), Public Key, Secret Key \(их можно взять в настройках проекта в личном кабинете Unitpay\).
 
 ![](../../.gitbook/assets/bi_2.png)
 
