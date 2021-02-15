@@ -22,6 +22,7 @@ To interact with the API, use the [Unitpay PHP-SDK](https://github.com/unitpay/p
 | ​ | **Value** | **Description** |
 | :--- | :--- | :--- |
 | **projectId** | number | Unique project ID in the UnitPay system |
+| **comment** | text | Comment on the payment. It is displayed only in your personal account \(only letters, numbers, dots and commas are allowed\) |
 
 {% hint style="danger" %}
 If you need to check the status of a payment after creating it, use the "[Information about Payout](https://help.unitpay.money/v/en/payouts/information-about-payout)"
