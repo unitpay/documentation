@@ -8,9 +8,9 @@
 
 ![](https://lh4.googleusercontent.com/k4eHo5kNuW2zXu7yRyiC39Gk_FQTMIdWHX2kWR_SQNdHpwcQ22AugteC3ts9fkucpKds5sMtiFM9ABQpRsuKw7wC5ilL4ECd3r_WrYi0LAAB8osqCmgyuXCgfW2anrfHN-66wZ39)
 
-В системе Unitpay физическое лицо может зарегистрироваться с идентификацией по паспорту \(потребуется прислать сканы документов, регистрация возможна с 18 лет\).  
+В системе Unitpay физическое лицо может зарегистрироваться двумя способами на выбор: с идентификацией по паспорту \(потребуется прислать сканы документов, регистрация возможна с 18 лет\) или с помощью вашего персонального аттестата WebMoney \(поддерживаются WMR, WMZ и WMP-кошельки\).  
   
-Согласитесь с офертами и нажмите кнопку «Продолжить».  
+Согласитель с офертами и нажмите кнопку «Продолжить».  
   
 Дальше вам нужно подтвердить ваш номер телефона посредством смс-кода или через telegram-канал \([инструкция](https://help.unitpay.money/other/telegram)\).  
 ![](https://lh4.googleusercontent.com/Bpx-PDmFMDRk35cwCJJOfG7HHctbFekh5kERj7Y0d7dlBrImBNjHfEWgJh42P8JkvpZzLd3AiLMZmTDOe7RQJdi5d9pRdgZHOg0fiBIpHN6dAlehDG8G0RZjaVT1CwrDltt7psYf)
@@ -63,7 +63,7 @@
 
 ### Комиссии и платежные методы
 
-После модерации вам доступен прием денег через банковские карты, мобильную коммерцию, Samsung Pay, Apple Pay, Google Pay. Способ оплаты Qiwi временно недоступен. Также вы можете подключить оплату через Paypal.
+После модерации вам доступен прием денег через банковские карты, мобильную коммерцию, Samsung Pay, Apple Pay, Google Pay, Qiwi. Также вы можете подключить оплату через Paypal.
 
 ![](https://lh4.googleusercontent.com/Lw017wQi-nTq5X2vIGXxx_7aGC1Pr2AzGc9YL-GJ0fFtO82PktJ--2ljuNx9wgFLebf7Gn3L6gKz2_HiEhCuRiZeZ23NUJgMhivlVMPHCzgYQa979mHDh0NoTXyJxch1GL1Q_d5t)
 
