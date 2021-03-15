@@ -53,6 +53,7 @@
     * [OpenCart](modules/cms-modules/opencart.md)
     * [osCommerce](modules/cms-modules/oscommerce.md)
     * [Prestashop](modules/cms-modules/prestashop.md)
+    * [RetailCRM](modules/cms-modules/retailcrm.md)
     * [ReadyScript](modules/cms-modules/readyscript.md)
     * [ShopCMS](modules/cms-modules/shopcms.md)
     * [Simpla](modules/cms-modules/simpla.md)
