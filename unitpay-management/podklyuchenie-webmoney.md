@@ -8,7 +8,7 @@
 
 Если вы зарегистрировались по номеру телефона, но хотите пройти идентификацию по WebMoney, нужно убедиться, что ваш аттестат не ниже персонального, затем требуется добавить наш WMID в доверенные:
 
-1. Перейти по этой ссылке [https://passport.webmoney.ru/asp/addTrustedWMID.asp?trustedwmid=290529580808](https://passport.webmoney.ru/asp/addTrustedWMID.asp?trustedwmid=290529580808) - и подтвердить, что WMID 290529580808 вы разрешаете просмотр ваших данных как доверенному;
+1. Перейти по этой ссылке [https://passport.webmoney.ru/asp/addTrustedWMID.asp?trustedwmid=290529580808](https://passport.webmoney.ru/asp/addTrustedWMID.asp?trustedwmid=290529580808) - и подтвердить, что WMID 131753261392 вы разрешаете просмотр ваших данных как доверенному;
 2. Направить нам на почту manager@unitpay.money номер своего WMID, а также номер Z-, P- или R-кошелька.
 
 После привязки WMID и кошельков к аккаунту и прохождения проверки в Мегастоке, вам будет доступен прием-вывод средств Webmoney.
