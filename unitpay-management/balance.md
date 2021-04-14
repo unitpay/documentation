@@ -1,9 +1,11 @@
 # Текущий баланс
 
-Для взаимодействия с API рекомендуется использовать библиотеку [Unitpay PHP-SDK](https://github.com/unitpay/php-sdk)https://unitpay.money/api?   
+Для взаимодействия с API рекомендуется использовать библиотеку [Unitpay PHP-SDK](https://github.com/unitpay/php-sdk)
+
+     `https://unitpay.money/api?   
      method=getPartner   
-     params\[login\]=partner@gmail.com   
-     params\[secretKey\]=ключ
+     params[login]=partner@gmail.com   
+     params[secretKey]=ключ`
 
 |  | Значение | Описание |
 | :--- | :--- | :--- |
