@@ -70,6 +70,7 @@
     * [CMS-S3](modules/cms-modules/cms-s3.md)
     * [BILLmanager](modules/cms-modules/billmanager.md)
     * [MODX \(miniShop2\)](modules/cms-modules/modx-minishop2.md)
+* [Untitled](untitled.md)
 * [Личный кабинет](unitpay-management/README.md)
   * [Инструкция по интерфейсу](unitpay-management/instrukciya-po-interfeisu.md)
   * [Добавление кошелька UnitWallet](unitpay-management/dobavlenie-koshelka-unitwallet.md)
