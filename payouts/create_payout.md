@@ -22,7 +22,7 @@ https://unitpay.money/api?
 | **purse** | строка | Кошелек получателя в формате, принятом в платежной системе |
 | **transactionId** | текст | Уникальный ID выплаты на стороне партнера |
 | **sum** | число | Сумма перевода в рублях, например: "10.22"  |
-| **paymentType** | строка | [Код платежной системы](../book-of-reference/payment-system-codes.md): Поддерживаются:  qiwi, card, mc, yandex |
+| **paymentType** | строка | [Код платежной системы](../book-of-reference/payment-system-codes.md): Поддерживаются:  qiwi, card, webmoney, mc, yandex |
 
 **Дополнительные параметры:**
 
