@@ -13,7 +13,7 @@ To interact with the API, use the [Unitpay PHP-SDK](https://github.com/unitpay/p
 | **purse** | line | Payee's purse in the format accepted in the payment system |
 | **transactionId** | text | Unique payout ID on the partner's side |
 | **sum** | number | The transfer amount in rubles, for example: "10.22" |
-| **paymentType** | line | ​[Payment system code](https://help.unitpay.ru/v/master/book-of-reference/payment-system-codes): Supported: qiwi, card, webmoney, mc, yandex |
+| **paymentType** | line | ​[Payment system code](https://help.unitpay.ru/v/master/book-of-reference/payment-system-codes): Supported: qiwi, card, mc, yandex |
 
 **Additional parameters:**
 
