@@ -4,7 +4,7 @@
 
 1. Скачайте [архив](https://github.com/unitpay/woocommerce-module/archive/master.zip) с модулем.
 
-2. Скопируйте содержимое директории unitpay в архиве в директорию /&lt;корень сайта&gt;/wp-content/plugins/.
+2. Скопируйте директорию unitpay в архиве в директорию /&lt;корень сайта&gt;/wp-content/plugins/.
 
 3. Зайдите в "Плагины"-&gt; "Установленные" и нажмите "Активировать" напротив плагина UnitPay.
 
