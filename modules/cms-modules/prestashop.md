@@ -6,7 +6,7 @@
 Модуль поддерживается в версиях Prestashop 1.6 и 1.7
 {% endhint %}
 
-1. Скачайте  [архив](https://github.com/unitpay/prestashop-module/archive/master.zip) с модулем \(.zip\). Переименуйте папку "prestashop-module-master" в "unitpay"
+1. Скачайте  [архив](https://github.com/unitpay/prestashop-module/archive/master.zip) с модулем \(.zip\). 
 
 2. Откройте панель управления сайтом. 
 
