@@ -6,7 +6,7 @@
 The module is supported in Prestashop versions 1.6 and 1.7
 {% endhint %}
 
-1. Download the [archive](https://github.com/unitpay/prestashop-module/archive/master.zip) with the module \(.zip\). The module operates correctly with Prestashop 1.6.\*
+1. Download the [archive](https://github.com/unitpay/prestashop-module/archive/master.zip) with the module \(.zip\). Rename the "prestashop-module-master" folder to " unitpay"
 2. Open the site control panel.
 3. Click the Modules button in the left menu of the control panel, then the Add module button in the upper right corner. Select the downloaded module file and click Download this module.
 
