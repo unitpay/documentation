@@ -11,6 +11,7 @@
 * [Платежи](payments/README.md)
   * [Создание платежа \(простой способ\)](payments/create-payment-easy.md)
   * [Создание платежа](payments/create-payment.md)
+  * [Создание платежа \(виджет\)](payments/create-payment-widget.md)
   * [Создание ссылок на оплату в личном кабинете](payments/payment-links.md)
   * [Обработчик платежа](payments/payment-handler.md)
   * [Информация о платеже](payments/payment-info.md)
