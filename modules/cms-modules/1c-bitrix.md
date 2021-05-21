@@ -29,5 +29,5 @@
 
 * удалить старый модуль
 * установить и настроить модуль, согласно инструкции выше; 
-* Поменять url обработчика в личном кабинете на _http://имя\_вашего\_сайта/unitpay\_processor/result.php?UNITPAY\_HANDLER=UNITPAY_; 
+* Поменять url обработчика в личном кабинете на _http://имя\_вашего\_сайта/unitpay\_processor/result.php?UNITPAY\_HANDLER=UNITPAY_
 
