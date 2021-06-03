@@ -16,7 +16,6 @@ To interact with the API, use the [Unitpay PHP-SDK](https://github.com/unitpay/p
 | **desc** | line | Order description |
 | **ip** | line | Payer's IP address |
 | **secretKey** | line | Secret key, available in the project settings |
-| **signature** | строка | Ц_ифровая подпись запроса. Они защищает вас от злоумышленников - подмены описания или стоимости заказа, размещения ссылки на оплату на ресурсах мошенников.   Образуется как sha256\( account + "{up}" + currency + "{up}" + desc + "{up}" + sum + "{up}" + secretKey\),    где sha256 - метод хеширования;    "{up}" - разделитель параметров в хеш-функции;    secretKey - секретный ключ проекта \(доступен в личном кабинете\);     Важно. Если вы не передаете  currency на форму оплаты, то этот параметр не должен участвовать в формировании подписи._ |
 
 **Parameters depending on the type of payment:**
 
