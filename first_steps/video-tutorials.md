@@ -1,9 +1,5 @@
 # Видео-инструкции
 
-Регистрация в Unitpay для юридических лиц \(время просмотра: 3 минуты\):
-
-{% embed url="https://www.youtube.com/watch?v=M-bj\_1IPhMk&feature=youtu.be" %}
-
 Как физическому лицу начать работать с Unitpay \(время просмотра: 3 минуты\).
 
 {% embed url="https://www.youtube.com/watch?v=sVb4i0vxQb8&feature=youtu.be" %}
