@@ -39,8 +39,8 @@ To interact with the API, we recommend using the [Unitpay PHP-SDK](https://githu
 | **unitwallet** |  | The field for UnitWallet wallet balances \(optional\) |
 | **rest\_balance** | number | Available balance on the balance sheet in rubles \(will be actual since 15.06.2021\) |
 | **rest\_payouts** | number | Available balance on withdrawn funds for a calendar month in rubles \(will be actual since 15.06.2021\) |
-| **rest\_ecommerce\_payouts\_today** | number | Available for withdrawal until 23:59 \(MSK\) via Qiwi, Юmoney, WMP \(will be actual since 15.06.2021\) |
-| **rest\_ecommerce\_payouts\_month** | number | Available for withdrawal in the current calendar month via Qiwi, Юmoney, WMP \(will be actual since 15.06.2021\) |
+| **rest\_ecommerce\_payouts\_today** | number | Available for withdrawal until 23:59 \(MSK\) via Qiwi, Юmoney, WMP in rubles \(will be actual since 15.06.2021\) |
+| **rest\_ecommerce\_payouts\_month** | number | Available for withdrawal in the current calendar month via Qiwi, Юmoney, WMP in rubles \(will be actual since 15.06.2021\) |
 
 **Error response**
 
