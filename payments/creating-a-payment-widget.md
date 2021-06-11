@@ -31,7 +31,7 @@ return false;
 </script>
 ```
 
-**Обязательные параметры:**
+**Required parameters:**
 
 <table>
   <thead>
