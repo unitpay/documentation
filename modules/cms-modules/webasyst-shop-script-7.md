@@ -1,4 +1,4 @@
-# Webasyst Shop Script 7
+# Webasyst Shop Script 7 \(8\)
 
 #### Инструкция по установке и настройке модуля. <a id="instrukciya-po-ustanovke-i-nastroike-modulya"></a>
 

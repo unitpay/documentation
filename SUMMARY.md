@@ -58,7 +58,7 @@
     * [UMI.CMS](modules/cms-modules/umi.cms.md)
     * [VamShop 2](modules/cms-modules/vamshop-2.md)
     * [VirtueMart 3 \(joomla 3\)](modules/cms-modules/virtuemart-3-joomla-3.md)
-    * [Webasyst Shop Script 7](modules/cms-modules/webasyst-shop-script-7.md)
+    * [Webasyst Shop Script 7 \(8\)](modules/cms-modules/webasyst-shop-script-7.md)
     * [WHMCS](modules/cms-modules/whmcs.md)
     * [Zen Cart](modules/cms-modules/zen-cart.md)
     * [Taplink](modules/cms-modules/taplink.md)
