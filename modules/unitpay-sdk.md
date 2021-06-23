@@ -16,4 +16,5 @@
 
 * **Ruby on Rails:** [UNITPAY-GEM](https://github.com/unitpayService/rails-unitpay)
 * **Laravel:** [UNITPAY-LARAVEL](https://github.com/unitpayService/laravel-unitpay)
+* **Node.js:** [unitpay-api](https://github.com/redinggg/unitpay-api#readme)
 
