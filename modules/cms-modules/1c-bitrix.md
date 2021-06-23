@@ -18,6 +18,7 @@ You need to fill in the following mandatory parameters in the module settings:
 * currency \(the currency in which the amount due is invoiced\); 
 * language of the payment method. 
 * transmit the order content for the receipt - if you use a cash register in the UnitPay system.
+* Redirect to payment \(appeared with update 9.06.21\) - after clicking on place an order, the customer will immediately be redirected to the payment form without an intermediate stage of order confirmation.
 
 After creating a new payment system, select UnitPay as the handler for the necessary types of payers. The payment system does not require any additional customization.
 

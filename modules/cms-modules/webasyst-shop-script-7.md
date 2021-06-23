@@ -1,4 +1,4 @@
-# Webasyst Shop Script 7
+# Webasyst Shop Script 7 \(8\)
 
 **The Module Setup and Installation Instruction**
 
