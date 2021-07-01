@@ -88,6 +88,7 @@
 * [Другие возможности](other/README.md)
   * [Использование тестового API](other/test-api.md)
   * [Telegram бот](other/telegram.md)
+* [Служба поддержки](support.md)
 * [FAQ](faq/README.md)
   * [Регистрация физ. лица](faq/registration-without-legal-entity.md)
   * [Модерация проекта](faq/project-approval.md)
