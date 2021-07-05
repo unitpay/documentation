@@ -80,6 +80,8 @@
 * [Referral program](referral-program/README.md)
   * [Interface of Referrer's \(Agent's\) Account](referral-program/interface-of-referrer.md)
 * [Support](support.md)
+* [FAQ](faq/README.md)
+  * [Individuals' payouts](faq/individuals-payouts.md)
 * [Other](other/README.md)
   * [Using the Test API](other/test-api.md)
   * [Telegram bot](other/telegram.md)
