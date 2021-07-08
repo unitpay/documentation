@@ -16,7 +16,7 @@
 
 3\) Установите модуль Unitpay из маркетплейса \(Настройки -&gt; Интеграция -&gt; Маркетплейс -&gt; Unitpay\)
 
-4\) После этого обратитесь в службу поддержки Unitpay **manager@unitpay.money**  
+4\) После этого обратитесь в [службу поддержки Unitpay](https://help.unitpay.money/support) **manager@unitpay.money**  
   
 В запросе укажите:  
 - id вашего проекта в Unitpay  

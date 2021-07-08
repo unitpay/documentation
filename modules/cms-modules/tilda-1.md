@@ -25,7 +25,7 @@ https://tilda.unit-pay.ru/_**PUBLIK KEY из настроек Unitpay**_/callbac
 ![](../../.gitbook/assets/5.png)
 
 {% hint style="warning" %}
-Далее обратитесь **в службу поддержки Unitpay** для окончательной настройки и включения модуля. 
+Далее обратитесь **в** [**службу поддержки Unitpay**](https://help.unitpay.money/support) для окончательной настройки и включения модуля. 
 {% endhint %}
 
 7\) Модуль поддерживает работу с двумя типами корзин в Tilda:
