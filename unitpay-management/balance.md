@@ -19,13 +19,15 @@ To interact with the API, we recommend using the [Unitpay PHP-SDK](https://githu
 {
     "result": {
         "email": "partner@gmail.com",
-        "balance": "24.12",
-        "balance_payout": "24.12",
+        "balance": "13.20",
+        "balance_payout": "13.20",
         "unitwallet": {
-            "rest_balance": "59975.88",
-            "rest_payouts": "200000.00",
+            "rest_balance": "59986.80",
+            "rest_payouts": "198151.00",
             "rest_ecommerce_payouts_today": "15000.00",
-            "rest_ecommerce_payouts_month": "40000.00"
+            "rest_ecommerce_payouts_month": "39919.00",
+            "rest_card_payouts_today": 13,
+            "rest_card_payouts_month": 267
         }
     }
 }
@@ -41,6 +43,8 @@ To interact with the API, we recommend using the [Unitpay PHP-SDK](https://githu
 | **rest\_payouts** | number | Available balance on withdrawn funds for a calendar month in rubles \(will be actual since 15.06.2021\) |
 | **rest\_ecommerce\_payouts\_today** | number | Available for withdrawal until 23:59 \(MSK\) via Qiwi, Юmoney, WMP in rubles \(will be actual since 15.06.2021\) |
 | **rest\_ecommerce\_payouts\_month** | number | Available for withdrawal in the current calendar month via Qiwi, Юmoney, WMP in rubles \(will be actual since 15.06.2021\) |
+| **rest\_card\_payouts\_today** | number | Available number of withdrawals to bank cards until 23:59 \(MSK\) |
+| **rest\_card\_payouts\_month** | number | Available number of withdrawals to bank cards in the current calendar month |
 
 **Error response**
 
