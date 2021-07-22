@@ -1,5 +1,17 @@
 # Tilda
 
+### Adding a project on Tilda
+
+When [adding a project](https://help.unitpay.money/v/en/first_steps/adding-project) to Tilda in Unitpay, you need to select confirmation using the meta-tag. 
+
+In Tilda's personal account, go to the "Site settings", then on the "More" tab, select the item "HTML CODE FOR THE HEAD SECTION" \(this functionality is available only on paid Tilda plans\), then insert the meta-tag, generated in the Unitpay personal account, there.
+
+![](../../.gitbook/assets/image%20%2879%29.png)
+
+After making the changes, do not forget to "Publish all pages".
+
+![](../../.gitbook/assets/image%20%2880%29.png)
+
 ### Instructions for configuring and installing the module.
 
 1\) In your Tilda account, go to Settings - &gt; Payment Systems -&gt; Universal Payment System. Select the "**Unitpay**" template"
