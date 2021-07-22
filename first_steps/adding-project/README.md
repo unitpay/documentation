@@ -36,7 +36,7 @@ The system will automatically check the contents of the file with the verificati
 
 ![](../../.gitbook/assets/image%20%2824%29.png)
 
-If you're using website on Tilda, [click here](https://help.unitpay.money/v/en/modules/cms-modules/tilda-1).
+If you're using website on Tilda, [click here](https://help.unitpay.money/v/en/modules/cms-modules/tilda).
 
 To learn more about how the project is moderated, read [Project Moderation ](../moderation.md)section.
 
