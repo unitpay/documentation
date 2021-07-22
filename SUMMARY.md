@@ -54,7 +54,7 @@
     * [ReadyScript](modules/cms-modules/readyscript.md)
     * [ShopCMS](modules/cms-modules/shopcms.md)
     * [Simpla](modules/cms-modules/simpla.md)
-    * [Tilda](modules/cms-modules/tilda-1.md)
+    * [Tilda](modules/cms-modules/tilda.md)
     * [UMI.CMS](modules/cms-modules/umi.cms.md)
     * [VamShop 2](modules/cms-modules/vamshop-2.md)
     * [VirtueMart 3 \(joomla 3\)](modules/cms-modules/virtuemart-3-joomla-3.md)
