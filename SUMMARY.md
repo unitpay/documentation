@@ -62,7 +62,6 @@
     * [WHMCS](modules/cms-modules/whmcs.md)
     * [Zen Cart](modules/cms-modules/zen-cart.md)
     * [Taplink](modules/cms-modules/taplink.md)
-    * [Tilda](modules/cms-modules/tilda.md)
     * [UCoz](modules/cms-modules/ucoz.md)
     * [CMS-S3](modules/cms-modules/cms-s3.md)
     * [BILLmanager](modules/cms-modules/billmanager.md)
