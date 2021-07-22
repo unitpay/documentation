@@ -38,7 +38,7 @@ _Вариант 3_. Добавьте DNS-запись типа TXT, содерж
 
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/551a91dbe4b0221aadf24410/images/5e5913842c7d3a7e9ae870a1/file-CZuhIRsRL4.png)
 
-Установить готовый модуль Tilda можно по [ссылке](https://help.unitpay.money/modules/cms-modules/tilda-1). 
+Как установить готовый модуль на Tilda, можно прочитать [здесь](https://help.unitpay.money/modules/cms-modules/tilda-1).
 
 О том, как проходит модерация проекта, читайте в разделе [Модерация проекта](../moderation.md).
 
