@@ -1,24 +1,17 @@
 # Ecwid
 
-### Instructions for configuring and installing the module.
+### Configuration and installation instructions
 
-{% hint style="warning" %}
-The app is running in test mode. It will soon appear in the Ecwid App Store.
-{% endhint %}
+1. Find the Unitpay app in the list of Ecwid "Apps". Click Install.
+2. Open the installed application and add your project settings \(Unitpay Personal Account -&gt; Project Settings\). Add domain: unitpay.ru Public Key \(public key of the project\) Secret Key \(project secret key\) Item type \(required for generating checks, _Goods_ is transmitted by default\)
 
-1.Install the app using the direct link [https://my.ecwid.com/cp/\#apps:view=app&name=unitpay-dev](https://my.ecwid.com/cp/#apps:view=app&name=unitpay-dev)
+![](../../.gitbook/assets/image%20%2881%29.png)
 
-2. Add: domain \(unitpay.money\), Public Key, Secret Key \(you can get them in the project settings in the Unitpay personal account\)
+3. After adding the settings and saving, a link to the "Payment handler" will appear. Copy it and add it to the project settings in your Unitpay personal account.
 
-![](../../.gitbook/assets/ecw1.png)
+![](../../.gitbook/assets/image%20%2882%29.png)
 
-Leave the "Position type" field empty.
+4. Then you should check that the module is enabled. To do this, go to Payment -&gt; Unitpay -&gt; Edit
 
-3. In the Unitpay personal account, install the "Payment Processor" _\(note: if the application is in test mode, you can still set the processor through our support manager@unitpay.ru or in an online chat on the Unitpay website\)_
-
-![](../../.gitbook/assets/ecw2.png)
-
-4. Next, you need to check that the module is enabled. To do this, go to _Payment -&gt; Unitpay -&gt; Edit_
-
-![](../../.gitbook/assets/ecw3.png)
+![](../../.gitbook/assets/image%20%2883%29.png)
 
