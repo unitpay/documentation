@@ -60,6 +60,7 @@
     * [VirtueMart 3 \(joomla 3\)](modules/cms-modules/virtuemart-3-joomla-3.md)
     * [Webasyst Shop Script 7 \(8\)](modules/cms-modules/webasyst-shop-script-7.md)
     * [WHMCS](modules/cms-modules/whmcs.md)
+    * [Wix](modules/cms-modules/wix.md)
     * [Zen Cart](modules/cms-modules/zen-cart.md)
     * [Taplink](modules/cms-modules/taplink.md)
     * [UCoz](modules/cms-modules/ucoz.md)
