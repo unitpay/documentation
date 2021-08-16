@@ -15,3 +15,7 @@
 
 ![](../../.gitbook/assets/image%20%2883%29.png)
 
+{% hint style="info" %}
+The official detailed guide to the Unitpay module from Ecwid can be found [here](https://support.ecwid.com/hc/ru/articles/4405021166226).
+{% endhint %}
+
