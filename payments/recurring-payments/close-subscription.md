@@ -6,7 +6,7 @@
 
 |  | **Value** | **Description** |
 | :--- | :--- | :--- |
-| **subscriptionId** | number | Subscription ID in the UnitPay system |
+| **subscriptionId** | number | Subscription ID in the Unitpay system |
 | **secretKey** | line | Secret key, available in the project settings |
 
 You can run the query in test mode. [Learn more](../../other/test-api.md)
