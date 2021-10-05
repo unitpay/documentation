@@ -4,7 +4,7 @@
 
 | ​ | **Value** | **Description** |
 | :--- | :--- | :--- |
-| **login** | line | Partner's email in the UnitPay system |
+| **login** | line | Partner's email in the Unitpay system |
 | **secretKey** | line | Partner's secret key, available in the [profile settings](https://unitpay.money/partner/profile/edit)​ |
 
 **Successful response**
